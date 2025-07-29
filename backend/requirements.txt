@@ -1,0 +1,17 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+python-dotenv
+streamlit
+pandas
+httpx
+passlib[bcrypt]
+python-jose[cryptography]
+Authlib 
+httpx-oauth
+asyncpg  
+PyJWT
