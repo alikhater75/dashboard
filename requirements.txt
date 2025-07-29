@@ -1,0 +1,9 @@
+sqlalchemy
+pandas
+gspread
+google-auth-oauthlib
+google-api-python-client
+openpyxl
+streamlit
+plotly
+PyJWT
